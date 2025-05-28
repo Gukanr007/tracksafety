@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 **Track Safety** is a **mobile-based** application designed to empower citizens to report road hazards such as potholes, water stagnation, road debris, and damaged signage. The app features an **intuitive UI/UX**, ensuring seamless reporting, issue tracking, and effective communication with authorities.
 
+**Demo link:** https://gukanr007.github.io/tracksafety/
+
 ## 🎨 UI/UX & Design
 - Designed an **intuitive and accessible** mobile interface for effortless hazard reporting.
 - Developed **interactive wireframes** and high-fidelity prototypes using **Figma**.
